@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "860439497347",
+    "firebase_url": "https://wette-e50ff.firebaseio.com",
+    "project_id": "wette-e50ff",
+    "storage_bucket": "wette-e50ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860439497347:android:734a9f3522597ed2",
+        "android_client_info": {
+          "package_name": "com.br.wetter.wetter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860439497347-srufg48ltukg6bdec4qhupl84oa985tc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.br.wetter.wetter",
+            "certificate_hash": "08daf12ed20fdca77ef742ac7656a35eaa9b6635"
+          }
+        },
+        {
+          "client_id": "860439497347-spo6pvj8esaaia73agon47qsn0q0apd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACiGB3epRkhhF355cfJhMPa5l-61j5NfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860439497347-spo6pvj8esaaia73agon47qsn0q0apd2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860439497347-6kjs69ehu8tbskb9u0od7ei950btqcdr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.meteixeira.Wette"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
